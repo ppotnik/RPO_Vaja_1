@@ -8,7 +8,7 @@ int main() {
     double stevilo1, stevilo2;
     char operacija;
 
-    cout << "=== KALKULATOR V TERMINALU ===" << endl;
+    cout << "=== KALKULATOR V TERMINALU BRANCH MASTER ===" << endl;
 
     cout << "Vnesi prvo stevilo: ";
     cin >> stevilo1;
