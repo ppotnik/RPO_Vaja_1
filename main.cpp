@@ -1,4 +1,6 @@
+
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 // Kalkulator - dodajanje funkcionalnosti potenc
@@ -11,7 +13,7 @@ int main() {
     cout << "Vnesi prvo stevilo: ";
     cin >> stevilo1;
 
-    cout << "Vnesi operacijo (+, -, *, /): ";
+    cout << "Vnesi operacijo (+, -, *, /, ^): ";
     cin >> operacija;
 
     cout << "Vnesi drugo stevilo: ";
@@ -35,6 +37,15 @@ int main() {
                 cout << "Napaka: deljenje z nic ni dovoljeno!" << endl;
             } else {
                 cout << "Rezultat: " << stevilo1 / stevilo2 << endl;
+            }
+            break;
+
+        case '^':
+            if (stevilo2 < 0 || stevilo2 != static_cast<int>(stevilo2)) {
+                cout << "Napaka: eksponent mora biti "
+                     << "nenegativno celo stevilo!" << endl;
+            } else {
+                cout << "Rezultat: " << pow(stevilo1, stevilo2) << endl;
             }
             break;
 
