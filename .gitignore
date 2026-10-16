@@ -1,0 +1,8 @@
+# Mapa z datotekami za gradnjo
+cmake-build-debug/
+
+# Preveden program
+main.exe
+
+#neka clion mapa
+.idea/
