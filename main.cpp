@@ -9,7 +9,7 @@ int main() {
     char operacija;
 
 
-    cout << "=== KALKULATOR V TERMINALU BRANCH MASTER ===" << endl;
+    cout << "=== KALKULATOR V TERMINALU SPREMENJENO V GitHub1 ===" << endl;
 
 
     cout << "Vnesi prvo stevilo: ";
