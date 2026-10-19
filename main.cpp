@@ -3,6 +3,9 @@
 #include <cmath>
 using namespace std;
 
+
+//test sprememba na veji master
+
 // Kalkulator - dodajanje funkcionalnosti potenc
 int main() {
     double stevilo1, stevilo2;
