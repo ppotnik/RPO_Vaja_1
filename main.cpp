@@ -4,6 +4,9 @@
 using namespace std;
 
 
+//PRVA VERZIJA
+
+
 int main() {
     double stevilo1, stevilo2;
     char operacija;
