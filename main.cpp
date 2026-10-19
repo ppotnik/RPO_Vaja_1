@@ -4,6 +4,9 @@
 using namespace std;
 
 // Kalkulator - dodajanje funkcionalnosti potenc
+
+//sprememba za merge
+
 int main() {
     double stevilo1, stevilo2;
     char operacija;
