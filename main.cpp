@@ -4,7 +4,7 @@
 using namespace std;
 
 
-//test sprememba na veji master
+// Vaja Git: sprememba na ciljni veji
 
 // Kalkulator - dodajanje funkcionalnosti potenc
 
