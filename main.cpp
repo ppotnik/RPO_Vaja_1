@@ -4,7 +4,7 @@
 using namespace std;
 
 
-//PRVA VERZIJA
+//DRUGA VERZIJA
 
 
 int main() {
