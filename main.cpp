@@ -5,6 +5,8 @@ using namespace std;
 
 
 // Vaja Git: sprememba na ciljni veji
+// Vaja Git: sprememba pred rebase
+//še en manjši komentar
 
 // Kalkulator - dodajanje funkcionalnosti potenc
 
