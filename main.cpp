@@ -3,12 +3,8 @@
 #include <cmath>
 using namespace std;
 
-//dodamo komentar za chery picking
-
-// Kalkulator - dodajanje funkcionalnosti potenc
-
-//sprememba za merge
-
+//prva verzija
+//še nekaj dodano
 int main() {
     double stevilo1, stevilo2;
     char operacija;
@@ -17,13 +13,13 @@ int main() {
     cout << "=== KALKULATOR V TERMINALU SPREMENJENO V GitHub1 ===" << endl;
 
 
-    cout << "Vnesi prvo stevilo: ";
+    cout << "Vnesite prvo stevilo: ";
     cin >> stevilo1;
 
-    cout << "Vnesi operacijo (+, -, *, /, ^): ";
+    cout << "Vnesite operacijo (+, -, *, /, ^): ";
     cin >> operacija;
 
-    cout << "Vnesi drugo stevilo: ";
+    cout << "Vnesite drugo stevilo: ";
     cin >> stevilo2;
 
     switch (operacija) {
