@@ -4,6 +4,7 @@
 using namespace std;
 
 //prva verzija
+//za nov commit
 //še nekaj dodano
 int main() {
     double stevilo1, stevilo2;
