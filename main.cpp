@@ -13,6 +13,7 @@ using namespace std;
 //sprememba za merge
 
 int main() {
+    int zaTest;
     double stevilo1, stevilo2;
     char operacija;
 
