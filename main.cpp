@@ -3,8 +3,7 @@
 #include <cmath>
 using namespace std;
 
-//prva verzija
-//še nekaj dodano
+//druga verzija
 int main() {
     double stevilo1, stevilo2;
     char operacija;
