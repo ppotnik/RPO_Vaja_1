@@ -3,7 +3,7 @@
 #include <cmath>
 using namespace std;
 
-
+//dodamo komentar za chery picking
 // Vaja Git: sprememba na ciljni veji
 // Vaja Git: sprememba pred rebase
 //še en manjši komentar
