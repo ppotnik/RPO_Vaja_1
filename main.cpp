@@ -7,7 +7,7 @@ using namespace std;
 //DRUGA VERZIJA
 
 
-int main() {
+int main()  //namerno vkljucimo napako (izbrisali smo zaviti uklepaj)
     double stevilo1, stevilo2;
     char operacija;
 
